@@ -981,7 +981,6 @@ https://github.com/LSatan/SmartRC-CC1101-Driver-Lib
 https://github.com/LUXROBO/MODI-Arduino
 https://github.com/LaCocoRoco/DataVisualizer
 https://github.com/LabAixBidouille/RobotDuLAB-arduino-library
-https://github.com/Laserlicht/MaerklinMotorola
 https://github.com/Leafony/LeafonySTM32
 https://github.com/LeandroLimaPRO/Pressure
 https://github.com/LeeLeahy2/SdCardServer
